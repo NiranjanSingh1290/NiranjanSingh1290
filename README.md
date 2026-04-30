@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Niranjan Singh <br><br>- Learning Java, Data Structures & Algorithms  <br>- Building backend projects using Spring Boot (in progress)  <br>- Working on a Raspberry Pi-based robot (hardware + software debugging)  <br>- Solved 35+ problems on LeetCode  <br><br>Currently focused on improving problem-solving and building real-world systems.
+Hi, I'm Niranjan Singh <br><br>- Learning Java, Data Structures & Algorithms  <br>- Working on a Raspberry Pi-based robot (hardware + software debugging)  <br>- Solved 35+ problems on LeetCode  <br><br>Currently focused on improving problem-solving and building real-world systems.
 
 
 ## 🌐 Socials:
